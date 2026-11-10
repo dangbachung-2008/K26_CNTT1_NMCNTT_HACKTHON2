@@ -1,0 +1,1 @@
+Mo web/index.html trong Chrome/Edge. F12 > Network > Ctrl+R, chup request logo loi va luu network.png. Chuyen Console, chup dong loi JavaScript va luu console.png. Khong chup hoac chia se noi dung .env.
